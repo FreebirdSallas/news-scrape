@@ -1,0 +1,16 @@
+body{
+  background-image: url("../images/claudio-schwarz-purzlbaum-bMzpGDkUAmc-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  background-size: 100%;
+}
+.jumbotron{
+background-color: whitesmoke;
+opacity: 0.5;
+}
+#scrape {
+  margin: 8px 0px;
+}
+ 
